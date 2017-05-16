@@ -1,0 +1,12 @@
+[
+  {
+    "id": "prependFolderNameToId.greeting-user",
+    "description": "Greeting the user",
+    "defaultMessage": "Hello, {name}"
+  },
+  {
+    "id": "prependFolderNameToId.greeting-world",
+    "description": "Greeting to the world",
+    "defaultMessage": "Hello World!"
+  }
+]
